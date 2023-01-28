@@ -17,6 +17,11 @@ matplotlib.pyplot
 seaborn
 ```
 
+### Dataset used:
+```
+mushroom_data.csv
+```
+
 ### External links:
 ```
 https://www.codecademy.com/paths/data-analyst/tracks/dsf-data-visualization-fundamentals-with-python/modules/dsf-visualizing-categorical-data/projects/mushroom-categories-project
